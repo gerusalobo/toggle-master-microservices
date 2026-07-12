@@ -38,7 +38,7 @@
 
 ## 2. Objetivo do Projeto
 
-A arquitetura foi dividida nos em 5 microsserviços:
+A arquitetura foi dividida em 5 microsserviços:
 
 - **auth-service (Go)**: Gerencia chaves de API e autenticação. (Banco de Dados: PostgreSQL) 
 
